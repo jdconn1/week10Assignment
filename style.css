@@ -1,0 +1,10 @@
+body {
+    background-color: darkslateblue;
+    color: #b7c274;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card {
+    background-color: darkslateblue;
+    border-color: #b7c274;
+}
